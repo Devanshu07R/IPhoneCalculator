@@ -1,4 +1,4 @@
-# IPhoneCalculator
+# 📱IPhoneCalculator
 📱 iPhone Calculator
 A sleek and functional iPhone-style calculator built with HTML, Tailwind CSS, and JavaScript. Designed for smooth user experience with accurate calculations and a responsive UI.
 
