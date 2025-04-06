@@ -13,6 +13,6 @@ A sleek and functional iPhone-style calculator built with HTML, Tailwind CSS, an
 🔹 HTML | Tailwind CSS | JavaScript
 
 🚀 Live Demo & Contributions
-🔗 Live Demo: https://devanshu07r.github.io/IPhoneCalculator/
+🔗 Live Demo: https://devanshu07r.github.io/IPhoneCalculator/<br>
 📌 Contributions are welcome! Fork, improve, and ⭐ star this project.
 <br><br>Author-Devanshu Dasgupta 
