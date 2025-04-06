@@ -15,3 +15,5 @@ A sleek and functional iPhone-style calculator built with HTML, Tailwind CSS, an
 🚀 Live Demo & Contributions
 🔗 Live Demo: [Deploy Link]
 📌 Contributions are welcome! Fork, improve, and ⭐ star this project.
+<br>
+Author-Devanshu Dasgupta 
