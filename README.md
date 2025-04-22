@@ -49,7 +49,7 @@ The **iPhone Calculator** replicates the native iOS calculator interface and fun
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started....
 
 ---
 
