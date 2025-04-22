@@ -1,7 +1,7 @@
 <h1 align="center">📱 iPhone Calculator</h1>
 
 <p align="center">
-  A high-fidelity iOS-style calculator built using HTML, Tailwind CSS, and JavaScript.  
+  A high-fidelity iOS-style calculator built using HTML, Tailwind CSS, and JavaScript.
   Experience seamless interactions, pixel-perfect design, and accurate operations—right in your browser.
 </p>
 
