@@ -79,6 +79,28 @@ Open a Pull Request
 
 ---
 
+---
+
+📄 License
+This project is licensed under the MIT License.
+Feel free to use it in personal or commercial projects.
+See the LICENSE file for more details.
+
+---
+
+---
+
+👨‍💻 Author
+Devanshu Dasgupta
+
+💼 LinkedIn
+
+💻 GitHub
+
+🌐 Portfolio Website
+
+---
+
 ```bash
 # Clone this repository
 git clone https://github.com/devanshu07r/IPhoneCalculator.git
