@@ -95,7 +95,7 @@ Devanshu Dasgupta
 
 💼 LinkedIn
 
-💻 GitHub
+💻 GitHub: https://github.com/Devanshu07R
 
 🌐 Portfolio Website
 
