@@ -29,72 +29,40 @@
 
 The **iPhone Calculator** replicates the native iOS calculator interface and functionality for web users. Built with modern frontend technologies, this responsive, browser-based calculator offers a fluid UX with real-time interactions.
 
-Use this project to:
-
-- Explore UI/UX fidelity in frontend design
-- Understand DOM manipulation and event handling
-- Practice Tailwind CSS layouting and custom styling
-
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-- 🎨 **Pixel-Perfect iOS UI** – Mirrors the native iPhone calculator interface
-- ➗ **Basic & Advanced Arithmetic** – Includes %, decimals, and real-time result updates
-- 📱 **Mobile Responsive** – Fully functional on mobile, tablet, and desktop
-- 🎯 **Button Interactions** – Realistic press animations enhance feedback
-- 🌙 **Dark & Light Theme (optional)** – Easy toggling for accessibility
+- 🎨 Pixel-perfect iPhone-style design  
+- ➗ Supports basic arithmetic and percentage  
+- ⚡ Fast and responsive UI  
+- 📱 Fully mobile-compatible  
+- 🌙 Optional dark and light mode toggle  
 
 ---
 
 ## 🔧 Tech Stack
 
-| Language   | Tools           |
-|------------|------------------|
-| HTML       | 🧱 Layout Structure |
-| Tailwind CSS | 🎨 Styling & Responsive Design |
-| JavaScript | ⚙️ Logic & Event Handling |
+- **HTML** – Structure  
+- **Tailwind CSS** – Styling & Layout  
+- **JavaScript** – Functionality & Logic  
 
 ---
 
 ## 🚀 Getting Started
 
-To run this project locally:
-
-🌐 Live Demo
-🎯 Try the calculator now
-
-🤝 Contributing
-Contributions are warmly welcome!
-You can:
-
-⭐ Star the project to show support
-
-🐛 Report bugs
-
-💡 Suggest enhancements
-
-📥 Submit pull requests
-
-📄 License
-This project is licensed under the MIT License.
-
-👨‍💻 Author
-Devanshu Dasgupta
-🚀 Frontend Developer | 💡 Tech Explorer | 🎯 Product Builder
-
-🌐 Portfolio
-
-💼 LinkedIn
-
-💻 GitHub
-
 ```bash
-# Clone the repository
+# Clone this repository
 git clone https://github.com/devanshu07r/IPhoneCalculator.git
 
-# Navigate to the project directory
+# Navigate into the folder
 cd IPhoneCalculator
 
-# Open the HTML file in your preferred browser
-start index.html  # or open manually
+# Open index.html in your browser
+start index.html  # On Windows
+
+# or
+
+open index.html  # On macOS
+
+# or manually drag and drop the index.html into your browser
