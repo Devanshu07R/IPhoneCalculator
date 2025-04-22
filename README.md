@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="IphoneCalculator.png" width="500" alt="iPhone Calculator Preview"/>
-</p>
-
 <h1 align="center">📱 iPhone Calculator</h1>
 
 <p align="center">
@@ -19,6 +15,12 @@
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="IphoneCalculator.png" width="500" alt="iPhone Calculator Preview"/>
 </p>
 
 ---
