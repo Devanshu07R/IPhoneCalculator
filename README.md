@@ -93,6 +93,7 @@ See the LICENSE file for more details.
 ---
 
 👨‍💻 Author
+Made by love❤
 Devanshu Dasgupta
 
 💼 LinkedIn: https://www.linkedin.com/in/devanshu-dasgupta-509641299
