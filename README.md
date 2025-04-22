@@ -51,6 +51,14 @@ The **iPhone Calculator** replicates the native iOS calculator interface and fun
 
 ## 🚀 Getting Started
 
+---
+
+🌐 Live Demo
+Click below to experience the calculator in action:
+🔗 Live Demo
+
+---
+
 ```bash
 # Clone this repository
 git clone https://github.com/devanshu07r/IPhoneCalculator.git
