@@ -93,7 +93,7 @@ See the LICENSE file for more details.
 👨‍💻 Author
 Devanshu Dasgupta
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/devanshu-dasgupta-509641299
 
 💻 GitHub: https://github.com/Devanshu07R
 
