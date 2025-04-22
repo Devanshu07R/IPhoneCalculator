@@ -55,7 +55,7 @@ The **iPhone Calculator** replicates the native iOS calculator interface and fun
 
 🌐 Live Demo
 Click below to experience the calculator in action:
-🔗 Live Demo
+🔗  https://devanshu07r.github.io/IPhoneCalculator
 
 ---
 
