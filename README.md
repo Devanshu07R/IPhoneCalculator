@@ -59,6 +59,26 @@ Click below to experience the calculator in action:
 
 ---
 
+---
+
+Demo
+
+🤝 Contributing
+Contributions are welcome!
+If you'd like to improve this project:
+
+Fork the repository
+
+Create a feature branch (git checkout -b feature-name)
+
+Commit your changes (git commit -m 'Add some feature')
+
+Push to your branch (git push origin feature-name)
+
+Open a Pull Request
+
+---
+
 ```bash
 # Clone this repository
 git clone https://github.com/devanshu07r/IPhoneCalculator.git
