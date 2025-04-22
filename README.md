@@ -1,21 +1,61 @@
 <p align="center">
-  <img src="IphoneCalculator.png" width="500"/>
+  <img src="IphoneCalculator.png" width="500" alt="iPhone Calculator Preview"/>
 </p>
-# 📱IPhoneCalculator
-📱 iPhone Calculator
-A sleek and functional iPhone-style calculator built with HTML, Tailwind CSS, and JavaScript. Designed for smooth user experience with accurate calculations and a responsive UI.
 
-✨ Features
-✅ iPhone-Inspired UI – Replicates the look & feel of the iOS calculator.
-✅ Basic & Advanced Operations – Supports addition, subtraction, multiplication, division, and percentage calculations.
-✅ Responsive & Interactive – Works flawlessly on all devices.
-✅ Smooth Animations – Button press effects for a realistic feel.
-✅ Dark & Light Mode (Optional) – Customize the theme for better usability.
+<h1 align="center">📱 iPhone Calculator</h1>
 
-🛠️ Tech Stack
-🔹 HTML | Tailwind CSS | JavaScript
+<p align="center">
+  A sleek and functional iPhone-style calculator built with HTML, Tailwind CSS, and JavaScript.
+  <br/>
+  Designed for smooth user experience, accurate calculations, and a responsive UI.
+</p>
 
-🚀 Live Demo & Contributions
-🔗 Live Demo: https://devanshu07r.github.io/IPhoneCalculator/<br>
-📌 Contributions are welcome! Fork, improve, and ⭐ star this project.
-<br><br>Author-Devanshu Dasgupta 
+<p align="center">
+  <a href="https://github.com/devanshu07r/IPhoneCalculator">
+    <img src="https://img.shields.io/badge/demo-online-success?style=for-the-badge" alt="Live Demo Badge"/>
+  </a>
+  <a href="https://github.com/devanshu07r/IPhoneCalculator/stargazers">
+    <img src="https://img.shields.io/github/stars/devanshu07r/IPhoneCalculator?style=social" alt="GitHub stars"/>
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"/>
+  </a>
+</p>
+
+---
+
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [Getting Started](#️-getting-started)
+- [Live Demo & Contributions](#-live-demo--contributions)
+- [License](#-license)
+- [Author](#-author)
+
+---
+
+## ✨ Features
+
+- ✅ **iPhone-Inspired UI** – Replicates the look & feel of the iOS calculator.
+- ✅ **Basic & Advanced Operations** – Addition, subtraction, multiplication, division, and percentage.
+- ✅ **Responsive & Interactive** – Seamless experience across devices.
+- ✅ **Smooth Animations** – Button press effects enhance realism.
+- ✅ **Dark & Light Mode (Optional)** – Customizable themes.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔹 **HTML**
+- 🔹 **Tailwind CSS**
+- 🔹 **JavaScript**
+
+---
+
+## ⚙️ Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/devanshu07r/IPhoneCalculator.git
+
