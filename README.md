@@ -61,15 +61,6 @@ Use this project to:
 
 To run this project locally:
 
-```bash
-# Clone the repository
-git clone https://github.com/devanshu07r/IPhoneCalculator.git
-
-# Navigate to the project directory
-cd IPhoneCalculator
-
-# Open the HTML file in your preferred browser
-start index.html  # or open manually
 🌐 Live Demo
 🎯 Try the calculator now
 
@@ -97,3 +88,13 @@ Devanshu Dasgupta
 💼 LinkedIn
 
 💻 GitHub
+
+```bash
+# Clone the repository
+git clone https://github.com/devanshu07r/IPhoneCalculator.git
+
+# Navigate to the project directory
+cd IPhoneCalculator
+
+# Open the HTML file in your preferred browser
+start index.html  # or open manually
