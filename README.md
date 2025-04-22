@@ -5,57 +5,66 @@
 <h1 align="center">📱 iPhone Calculator</h1>
 
 <p align="center">
-  A sleek and functional iPhone-style calculator built with HTML, Tailwind CSS, and JavaScript.
-  <br/>
-  Designed for smooth user experience, accurate calculations, and a responsive UI.
+  A high-fidelity iOS-style calculator built using HTML, Tailwind CSS, and JavaScript.  
+  Experience seamless interactions, pixel-perfect design, and accurate operations—right in your browser.
 </p>
 
 <p align="center">
-  <a href="https://github.com/devanshu07r/IPhoneCalculator">
-    <img src="https://img.shields.io/badge/demo-online-success?style=for-the-badge" alt="Live Demo Badge"/>
+  <a href="https://devanshu07r.github.io/IPhoneCalculator/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Online-success?style=for-the-badge" alt="Live Demo Badge"/>
   </a>
   <a href="https://github.com/devanshu07r/IPhoneCalculator/stargazers">
     <img src="https://img.shields.io/github/stars/devanshu07r/IPhoneCalculator?style=social" alt="GitHub stars"/>
   </a>
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License"/>
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
   </a>
 </p>
 
 ---
 
-## 📚 Table of Contents
+## 📖 Overview
 
-- [Features](#-features)
-- [Tech Stack](#️-tech-stack)
-- [Getting Started](#️-getting-started)
-- [Live Demo & Contributions](#-live-demo--contributions)
-- [License](#-license)
-- [Author](#-author)
+The **iPhone Calculator** replicates the native iOS calculator interface and functionality for web users. Built with modern frontend technologies, this responsive, browser-based calculator offers a fluid UX with real-time interactions.
 
----
+Use this project to:
 
-## ✨ Features
-
-- ✅ **iPhone-Inspired UI** – Replicates the look & feel of the iOS calculator.
-- ✅ **Basic & Advanced Operations** – Addition, subtraction, multiplication, division, and percentage.
-- ✅ **Responsive & Interactive** – Seamless experience across devices.
-- ✅ **Smooth Animations** – Button press effects enhance realism.
-- ✅ **Dark & Light Mode (Optional)** – Customizable themes.
+- Explore UI/UX fidelity in frontend design
+- Understand DOM manipulation and event handling
+- Practice Tailwind CSS layouting and custom styling
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Key Features
 
-- 🔹 **HTML**
-- 🔹 **Tailwind CSS**
-- 🔹 **JavaScript**
+- 🎨 **Pixel-Perfect iOS UI** – Mirrors the native iPhone calculator interface
+- ➗ **Basic & Advanced Arithmetic** – Includes %, decimals, and real-time result updates
+- 📱 **Mobile Responsive** – Fully functional on mobile, tablet, and desktop
+- 🎯 **Button Interactions** – Realistic press animations enhance feedback
+- 🌙 **Dark & Light Theme (optional)** – Easy toggling for accessibility
 
 ---
 
-## ⚙️ Getting Started
+## 🔧 Tech Stack
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/devanshu07r/IPhoneCalculator.git
+| Language   | Tools           |
+|------------|------------------|
+| HTML       | 🧱 Layout Structure |
+| Tailwind CSS | 🎨 Styling & Responsive Design |
+| JavaScript | ⚙️ Logic & Event Handling |
 
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/devanshu07r/IPhoneCalculator.git
+
+# Navigate to the project directory
+cd IPhoneCalculator
+
+# Open the HTML file in your preferred browser
+start index.html  # or open manually
