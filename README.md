@@ -33,7 +33,7 @@ The **iPhone Calculator** replicates the native iOS calculator interface and fun
 
 ## ✨ Features
 
-- 🎨 Pixel-perfect iPhone-style design  
+- 🎨 Pixel-perfect iPhone-style design 
 - ➗ Supports basic arithmetic and percentage  
 - ⚡ Fast and responsive UI  
 - 📱 Fully mobile-compatible  
