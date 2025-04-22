@@ -70,3 +70,30 @@ cd IPhoneCalculator
 
 # Open the HTML file in your preferred browser
 start index.html  # or open manually
+🌐 Live Demo
+🎯 Try the calculator now
+
+🤝 Contributing
+Contributions are warmly welcome!
+You can:
+
+⭐ Star the project to show support
+
+🐛 Report bugs
+
+💡 Suggest enhancements
+
+📥 Submit pull requests
+
+📄 License
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+Devanshu Dasgupta
+🚀 Frontend Developer | 💡 Tech Explorer | 🎯 Product Builder
+
+🌐 Portfolio
+
+💼 LinkedIn
+
+💻 GitHub
