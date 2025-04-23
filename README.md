@@ -58,9 +58,6 @@ The **iPhone Calculator** replicates the native iOS calculator interface and fun
 Click below to experience the calculator in action:
 🔗  https://devanshu07r.github.io/IPhoneCalculator
 
-
----
-
 ---
 
 Demo
