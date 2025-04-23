@@ -81,14 +81,10 @@ Open a Pull Request
 
 ---
 
----
-
 📄 License
 This project is licensed under the MIT License.
 Feel free to use it in personal or commercial projects.
 See the LICENSE file for more details.
-
----
 
 ---
 
