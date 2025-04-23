@@ -41,7 +41,7 @@ The **iPhone Calculator** replicates the native iOS calculator interface and fun
 
 ---
 
-## 🔧 Tech Stack
+## ⚒️ Tech Stack
 
 - **HTML** – Structure  
 - **Tailwind CSS** – Styling & Layout  
