@@ -3,7 +3,7 @@
 <p align="center">
   A high-fidelity iOS-style calculator built using HTML, Tailwind CSS, and JavaScript.
   Experience seamless interactions, pixel-perfect design, and accurate operations—right in your browser.
-</p>
+</p>y
 
 <p align="center">
   <a href="https://devanshu07r.github.io/IPhoneCalculator/" target="_blank">
