@@ -108,6 +108,6 @@ start index.html  # On Windows
 
 # or
 
-open index.html  # On macOSj
+open index.html  # On macOS
 
 # or manually drag and drop the index.html into your browser
