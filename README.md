@@ -110,4 +110,4 @@ start index.html  # On Windows
 
 open index.html  # On macOS
 
-# or manually drag and drop the index.html into your browser
+# or manually drag and drop the index.html into your browseru
